@@ -1,0 +1,45 @@
+body{
+    background-color:greenyellow;
+}
+section{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:3rem;
+    border: 5px solid rgb(149, 136, 136);
+    background-color:azure;
+    padding:1rem;  
+}
+p{
+    
+}
+.dashes{
+    text-align: center;
+    font-size:2rem;
+    color:blueviolet;
+}
+blockquote{
+    text-align:center;
+    font-size:2rem;
+    font-family: 'Open Sans', serif;
+}
+.list{
+    font-weight:bold;
+}
+li{
+    color:rgb(33, 119, 168);
+}
+em{
+    color:brown;
+    font-weight:bold;
+}
+a{
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    font-size: 1.3rem;
+    background-color:rgb(127, 130, 136);
+    padding:3rem;
+    margin:0;
+    color:white;
+    font-family: 'Open Sans', serif;
+}
