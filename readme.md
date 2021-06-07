@@ -5,5 +5,6 @@ In this repository I have added all the assignments I made during my beginners b
 **1. HTML**<br>
 **2. CSS**<br>
 **3. Forms**<br>
-**4. Calculator with HTML and CSS**
+**4. Calculator with HTML and CSS and JS**
+**5.JavaScript Exercises**
 
