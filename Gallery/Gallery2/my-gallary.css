@@ -1,0 +1,53 @@
+*{
+  box-sizing:border-box;
+}
+
+body{
+  background-color:papayawhip;
+  padding:0;
+  margin:0;
+}
+
+.main-nav{
+  background-color:rgb(195, 159, 123);
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  padding:15px;
+}
+
+.brand{
+  margin:0;
+  font-size:50px;
+  cursor:grab;
+  z-index:5;
+  position:relative;
+
+}
+
+.active{
+  display:block;
+}
+  
+.swiper-slide{
+  width:100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:10rem;
+}
+
+.btn:disabled{
+  background-color :#777;
+  cursor: not-allowed;
+}
+
+img{
+  height:500px;
+}
+
+.gallery-img{
+  max-height:600px;
+  display:flex;
+  border: 5px solid rgb(139, 124, 124);
+}
+  
